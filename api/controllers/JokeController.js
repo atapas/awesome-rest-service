@@ -4,10 +4,10 @@
  * @description :: Server-side logic for managing quotes
  * @help        :: See http://sailsjs.org/#!/documentation/concepts/Controllers
  */
-const quoter = require('../services/quoter');
+const joker = require('../services/joker');
 
 module.exports = {
-    getQuote: function(req, res) {
-        return res.json({ quote: quoter.getRandomOne() });
+    getRandomJoke: function(req, res) {
+        return res.json({ quote: joker.getRandomOne() });
     }
 };
