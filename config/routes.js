@@ -9,5 +9,6 @@
  */
 
 module.exports.routes = {
+    'get /': '/api/random-quote',
     'get /api/random-quote': 'QuoteController.getQuote',
 };
