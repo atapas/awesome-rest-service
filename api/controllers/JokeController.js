@@ -7,7 +7,10 @@
 const joker = require('../services/joker');
 
 module.exports = {
+    getJokes: function(req, res) {
+        return res.json({ jokes: joker.getAll() });
+    },
     getRandomJoke: function(req, res) {
-        return res.json({ quote: joker.getRandomOne() });
+        return res.json({ joke: joker.getRandomOne() });
     }
 };
