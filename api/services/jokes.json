@@ -1,46 +1,162 @@
-{
-    "Rajnikanth": {
-        "name": "Rajni Sir",
-        "image": "rajni_image.png",
-        "content": [
-            "When Rajinikanth goes through immigration.. the officers show him thier passports",
-            "Sun doesn't rise until Rajinikanth says 'Good Morning'",
-            "Rajnikanth's pulse is measured in richter scale.",
-            "Once spiderman,superman and batman visited rajnikant's house together.. it was teachers day!",
-            "Ghosts have been debating for ages whether Rajinikanth really exists or not. But they are scared anyway.",
-            "Adam and Eve are children of Rajinikanth",
-            "Rajinikanth is so fast that he always comes yesterday",
-            "Rajinikanth can get rid of his shadow",
-            "Rajini's fav desert: Lal michi ki meetha kheer",
-            "Rajini can eat dosa with chop sticks",
-            "Tornado changes course when it sees Rajini standing in it's way",
-            "Police dept is bored because of 0 crime in the city where rajini lives",
-            "When you say 'No one's perfect', Rajanikanth takes this as a personal insult.",
-            "Gabbar singh forgets his dialogues when he sees Rajinikanth",
-            "Rajini won the best actor oscar for his acting in a game of dumb charades",
-            "The box office collection of the movie RA-One Was less than parking collection of ROBOT.......!",
-            "Once Rajnikanth became the coach of Indian cricket team and guess wha India won the Fifa world cup !",
-            "People update status from BlackBerry, iPhone, iPad, etc. Rajinikant updates his facebook status with a calculator !!",
-            "Rajinikant got 150 questions in exam paper asking - 'Solve any 100 questions' He solved all 150 and wrote, 'Rascalla!, CHECK ANY 100!'",
-            "Rajini participates in long jump once every four year.... And those years are called LEAP year",
-            "Once Rajnikanth entered bigg boss...The next day announcement was made... Rajnikanth chahte hai ki bigg boss confession room me aaye"
-        ]
+[
+    {
+      "name": "Rajni Sir",
+      "image": "rajni_image.png",
+      "content": "When Rajinikanth goes through immigration.. the officers show him thier passports"
     },
-    "ChuckNorris": {
-        "name": "Chuck Norris",
-        "image": "chuckn_image.png",
-        "content": [
-            "Chuck Norris once kicked a horse in the chin. Its descendants are known today as Giraffes.",
-            "Chuck Norris had a staring contest with Medusa, and won.",
-            "When life hands Chuck Norris lemons, he makes orange juice.",
-            "When Chuck Norris goes on a picnic, the ants bring him food.",
-            "Chuck Norris gives Freddy Krueger nightmares.",
-            "They once made a Chuck Norris toilet paper, but there was a problem: It wouldn't take shit from anybody.",
-            "Chuck Norris can punch a cyclops between the eyes.",
-            "Chuck Norris doesn't mow his lawn, he stands on the porch and dares it to grow",
-            "Chuck Norris put out a forest fire. using only gasoline",
-            "Chuck Norris CAN believe it's not butter.",
-            "Chuck Norris will never have a heart attack. His heart isn't nearly foolish enough to attack him."
-        ]
+    {
+      "name": "Rajni Sir",
+      "image": "rajni_image.png",
+      "content": "Sun doesn't rise until Rajinikanth says 'Good Morning'"
+    },
+    {
+      "name": "Rajni Sir",
+      "image": "rajni_image.png",
+      "content": "Rajnikanth's pulse is measured in richter scale."
+    },
+    {
+      "name": "Rajni Sir",
+      "image": "rajni_image.png",
+      "content": "Once spiderman,superman and batman visited rajnikant's house together.. it was teachers day!"
+    },
+    {
+      "name": "Rajni Sir",
+      "image": "rajni_image.png",
+      "content": "Ghosts have been debating for ages whether Rajinikanth really exists or not. But they are scared anyway."
+    },
+    {
+      "name": "Rajni Sir",
+      "image": "rajni_image.png",
+      "content": "Adam and Eve are children of Rajinikanth"
+    },
+    {
+      "name": "Rajni Sir",
+      "image": "rajni_image.png",
+      "content": "Rajinikanth is so fast that he always comes yesterday"
+    },
+    {
+      "name": "Rajni Sir",
+      "image": "rajni_image.png",
+      "content": "Rajinikanth can get rid of his shadow"
+    },
+    {
+      "name": "Rajni Sir",
+      "image": "rajni_image.png",
+      "content": "Rajini's fav desert: Lal michi ki meetha kheer"
+    },
+    {
+      "name": "Rajni Sir",
+      "image": "rajni_image.png",
+      "content": "Rajini can eat dosa with chop sticks"
+    },
+    {
+      "name": "Rajni Sir",
+      "image": "rajni_image.png",
+      "content": "Tornado changes course when it sees Rajini standing in it's way"
+    },
+    {
+      "name": "Rajni Sir",
+      "image": "rajni_image.png",
+      "content": "Police dept is bored because of 0 crime in the city where rajini lives"
+    },
+    {
+      "name": "Rajni Sir",
+      "image": "rajni_image.png",
+      "content": "When you say 'No one's perfect', Rajanikanth takes this as a personal insult."
+    },
+    {
+      "name": "Rajni Sir",
+      "image": "rajni_image.png",
+      "content": "Gabbar singh forgets his dialogues when he sees Rajinikanth"
+    },
+    {
+      "name": "Rajni Sir",
+      "image": "rajni_image.png",
+      "content": "Rajini won the best actor oscar for his acting in a game of dumb charades"
+    },
+    {
+      "name": "Rajni Sir",
+      "image": "rajni_image.png",
+      "content": "The box office collection of the movie RA-One Was less than parking collection of ROBOT.......!"
+    },
+    {
+      "name": "Rajni Sir",
+      "image": "rajni_image.png",
+      "content": "Once Rajnikanth became the coach of Indian cricket team and guess wha India won the Fifa world cup !"
+    },
+    {
+      "name": "Rajni Sir",
+      "image": "rajni_image.png",
+      "content": "People update status from BlackBerry, iPhone, iPad, etc. Rajinikant updates his facebook status with a calculator !!"
+    },
+    {
+      "name": "Rajni Sir",
+      "image": "rajni_image.png",
+      "content": "Rajinikant got 150 questions in exam paper asking - 'Solve any 100 questions' He solved all 150 and wrote, 'Rascalla!, CHECK ANY 100!'"
+    },
+    {
+      "name": "Rajni Sir",
+      "image": "rajni_image.png",
+      "content": "Rajini participates in long jump once every four year.... And those years are called LEAP year"
+    },
+    {
+      "name": "Rajni Sir",
+      "image": "rajni_image.png",
+      "content": "Once Rajnikanth entered bigg boss...The next day announcement was made... Rajnikanth chahte hai ki bigg boss confession room me aaye"
+    },
+    {
+      "name": "Chuck Norris",
+      "image": "chuckn_image.png",
+      "content": "Chuck Norris once kicked a horse in the chin. Its descendants are known today as Giraffes."
+    },
+    {
+      "name": "Chuck Norris",
+      "image": "chuckn_image.png",
+      "content": "Chuck Norris had a staring contest with Medusa, and won."
+    },
+    {
+      "name": "Chuck Norris",
+      "image": "chuckn_image.png",
+      "content": "When life hands Chuck Norris lemons, he makes orange juice."
+    },
+    {
+      "name": "Chuck Norris",
+      "image": "chuckn_image.png",
+      "content": "When Chuck Norris goes on a picnic, the ants bring him food."
+    },
+    {
+      "name": "Chuck Norris",
+      "image": "chuckn_image.png",
+      "content": "Chuck Norris gives Freddy Krueger nightmares."
+    },
+    {
+      "name": "Chuck Norris",
+      "image": "chuckn_image.png",
+      "content": "They once made a Chuck Norris toilet paper, but there was a problem: It wouldn't take shit from anybody."
+    },
+    {
+      "name": "Chuck Norris",
+      "image": "chuckn_image.png",
+      "content": "Chuck Norris can punch a cyclops between the eyes."
+    },
+    {
+      "name": "Chuck Norris",
+      "image": "chuckn_image.png",
+      "content": "Chuck Norris doesn't mow his lawn, he stands on the porch and dares it to grow"
+    },
+    {
+      "name": "Chuck Norris",
+      "image": "chuckn_image.png",
+      "content": "Chuck Norris put out a forest fire. using only gasoline"
+    },
+    {
+      "name": "Chuck Norris",
+      "image": "chuckn_image.png",
+      "content": "Chuck Norris CAN believe it's not butter."
+    },
+    {
+      "name": "Chuck Norris",
+      "image": "chuckn_image.png",
+      "content": "Chuck Norris will never have a heart attack. His heart isn't nearly foolish enough to attack him."
     }
-}
+  ]

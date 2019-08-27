@@ -9,6 +9,7 @@
  */
 
 module.exports.routes = {
+    'get /': '/api/jokes',
     'get /api/jokes': 'JokeController.getJokes',
     'get /api/jokes/random-joke': 'JokeController.getRandomJoke',
 };
