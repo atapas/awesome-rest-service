@@ -1,7 +1,7 @@
 /**
- * QuoteController
+ * JokeController
  *
- * @description :: Server-side logic for managing quotes
+ * @description :: Server-side logic for managing jokes
  * @help        :: See http://sailsjs.org/#!/documentation/concepts/Controllers
  */
 const joker = require('../services/joker');
