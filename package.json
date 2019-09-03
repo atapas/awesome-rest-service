@@ -8,11 +8,11 @@
     "sails": "^1.2.3",
     "sails-hook-orm": "^2.1.1",
     "sails-hook-sockets": "^2.0.0",
-    "@sailshq/lodash": "^3.10.3"
+    "@sailshq/lodash": "^3.10.3",
+    "sails-postgresql": "^1.0.2"
   },
   "devDependencies": {
-    "eslint": "5.16.0",
-    "sails-postgresql": "^1.0.2"
+    "eslint": "5.16.0"
   },
   "scripts": {
     "start": "NODE_ENV=production node app.js",
