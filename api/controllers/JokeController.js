@@ -7,10 +7,12 @@
 const joker = require('../services/joker');
 
 module.exports = {
-    getJokes: function(req, res) {
-        return res.json({ jokes: joker.getAll() });
+    getJokes: async function(req, res) {
+        let jokes = await joker.getAll();
+        return res.json({ jokes: jokes });
     },
-    getRandomJoke: function(req, res) {
-        return res.json({ joke: joker.getRandomOne() });
+    getRandomJoke: async function(req, res) {
+        let randomJoke = await joker.getRandomOne();
+        return res.json({ joke: randomJoke });
     }
 };

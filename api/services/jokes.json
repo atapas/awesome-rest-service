@@ -1,160 +1,192 @@
 [
     {
+      "id": 1,
       "name": "Rajni Sir",
       "image": "rajni_image",
       "content": "Once spiderman,superman and batman visited rajnikant's house together.. it was teachers day!"
     },
     {
+      "id": 2,
       "name": "Rajni Sir",
       "image": "rajni_image",
       "content": "Ghosts have been debating for ages whether Rajinikanth really exists or not. But they are scared anyway."
     },
     {
+      "id": 3,
       "name": "Rajni Sir",
       "image": "rajni_image",
       "content": "Adam and Eve are children of Rajinikanth"
     },
     {
+      "id": 4,
       "name": "Rajni Sir",
       "image": "rajni_image",
       "content": "Rajinikanth is so fast that he always comes yesterday"
     },
     {
+      "id": 5,
       "name": "Rajni Sir",
       "image": "rajni_image",
       "content": "Rajinikanth can get rid of his shadow"
     },
     {
+      "id": 6,
       "name": "Rajni Sir",
       "image": "rajni_image",
       "content": "Rajini's fav desert: Lal michi ki meetha kheer"
     },
     {
+      "id": 7,
       "name": "Rajni Sir",
       "image": "rajni_image",
       "content": "Rajini can eat dosa with chop sticks"
     },
     {
+      "id": 8,
       "name": "Rajni Sir",
       "image": "rajni_image",
       "content": "Tornado changes course when it sees Rajini standing in it's way"
     },
     {
+      "id": 9,
       "name": "Rajni Sir",
       "image": "rajni_image",
       "content": "Police dept is bored because of 0 crime in the city where rajini lives"
     },
     {
+      "id": 10,
       "name": "Rajni Sir",
       "image": "rajni_image",
       "content": "When you say 'No one's perfect', Rajanikanth takes this as a personal insult."
     },
     {
+      "id": 11,
       "name": "Rajni Sir",
       "image": "rajni_image",
       "content": "Gabbar singh forgets his dialogues when he sees Rajinikanth"
     },
     {
+      "id": 12,
       "name": "Rajni Sir",
       "image": "rajni_image",
       "content": "Rajini won the best actor oscar for his acting in a game of dumb charades"
     },
     {
+      "id": 13,
       "name": "Rajni Sir",
       "image": "rajni_image",
       "content": "The box office collection of the movie RA-One Was less than parking collection of ROBOT.......!"
     },
     {
+      "id": 14,
       "name": "Rajni Sir",
       "image": "rajni_image",
       "content": "Once Rajnikanth became the coach of Indian cricket team and guess wha India won the Fifa world cup !"
     },
     {
+      "id": 15,
       "name": "Rajni Sir",
       "image": "rajni_image",
       "content": "People update status from BlackBerry, iPhone, iPad, etc. Rajinikant updates his facebook status with a calculator !!"
     },
     {
+      "id": 16,
       "name": "Chuck Norris",
       "image": "chuckn_image",
       "content": "Chuck Norris can punch a cyclops between the eyes."
     },
     {
+      "id": 17,
       "name": "Chuck Norris",
       "image": "chuckn_image",
       "content": "Chuck Norris doesn't mow his lawn, he stands on the porch and dares it to grow"
     },
     {
+      "id": 18,
       "name": "Rajni Sir",
       "image": "rajni_image",
       "content": "Rajinikant got 150 questions in exam paper asking - 'Solve any 100 questions' He solved all 150 and wrote, 'Rascalla!, CHECK ANY 100!'"
     },
     {
+      "id": 19,
       "name": "Rajni Sir",
       "image": "rajni_image",
       "content": "Rajini participates in long jump once every four year.... And those years are called LEAP year"
     },
     {
+      "id": 20,
       "name": "Rajni Sir",
       "image": "rajni_image",
       "content": "Once Rajnikanth entered bigg boss...The next day announcement was made... Rajnikanth chahte hai ki bigg boss confession room me aaye"
     },
     {
+      "id": 21,
       "name": "Chuck Norris",
       "image": "chuckn_image",
       "content": "Chuck Norris once kicked a horse in the chin. Its descendants are known today as Giraffes."
     },
     {
+      "id": 22,
       "name": "Chuck Norris",
       "image": "chuckn_image",
       "content": "Chuck Norris had a staring contest with Medusa, and won."
     },
     {
+      "id": 23,
       "name": "Rajni Sir",
       "image": "rajni_image",
       "content": "When Rajinikanth goes through immigration.. the officers show him thier passports"
     },
     {
+      "id": 24,
       "name": "Rajni Sir",
       "image": "rajni_image",
       "content": "Sun doesn't rise until Rajinikanth says 'Good Morning'"
     },
     {
+      "id": 25,
       "name": "Rajni Sir",
       "image": "rajni_image",
       "content": "Rajnikanth's pulse is measured in richter scale."
     },
     {
+      "id": 26,
       "name": "Chuck Norris",
       "image": "chuckn_image",
       "content": "When life hands Chuck Norris lemons, he makes orange juice."
     },
     {
+      "id": 27,
       "name": "Chuck Norris",
       "image": "chuckn_image",
       "content": "When Chuck Norris goes on a picnic, the ants bring him food."
     },
     {
+      "id": 28,
       "name": "Chuck Norris",
       "image": "chuckn_image",
       "content": "Chuck Norris gives Freddy Krueger nightmares."
     },
     {
+      "id": 29,
       "name": "Chuck Norris",
       "image": "chuckn_image",
       "content": "They once made a Chuck Norris toilet paper, but there was a problem: It wouldn't take shit from anybody."
     },
     {
+      "id": 30,
       "name": "Chuck Norris",
       "image": "chuckn_image",
       "content": "Chuck Norris put out a forest fire. using only gasoline"
     },
     {
+      "id": 31,
       "name": "Chuck Norris",
       "image": "chuckn_image",
       "content": "Chuck Norris CAN believe it's not butter."
     },
     {
+      "id": 32,
       "name": "Chuck Norris",
       "image": "chuckn_image",
       "content": "Chuck Norris will never have a heart attack. His heart isn't nearly foolish enough to attack him."
