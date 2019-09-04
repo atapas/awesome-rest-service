@@ -13,6 +13,6 @@ module.exports = {
     },
     getRandomJoke: async function(req, res) {
         let randomJoke = await joker.getRandomOne();
-        return res.json({ joke: randomJoke });
+        return res.json({ jokes: randomJoke });
     }
 };
