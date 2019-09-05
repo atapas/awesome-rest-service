@@ -9,7 +9,11 @@
  */
 
 module.exports.routes = {
+    'POST /api/login': 'AuthController.login',
+    '/api/logout': 'AuthController.logout',
     'get /': '/api/jokes',
+    'get /api/users': '/users',
+    'post /api/users': 'UserController.create',
     'get /api/jokes': 'JokeController.getJokes',
     'get /api/jokes/random-joke': 'JokeController.getRandomJoke',
 };
