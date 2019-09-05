@@ -29,6 +29,10 @@ attributes: {
     required: true
   }
 },
+customToJSON: function() {
+  const { ['password']: omitted, ...rest } = this;
+  return rest;
+},
 beforeCreate: function(user, cb){
     bcrypt.hash(user.password, 10, function(err, hash){
       if(err) {
