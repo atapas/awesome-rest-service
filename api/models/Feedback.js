@@ -1,5 +1,5 @@
 /**
- * Joke.js
+ * Feedback.js
  *
  * @description :: A model definition represents a database table/collection.
  * @docs        :: https://sailsjs.com/docs/concepts/models-and-orm/models
@@ -12,19 +12,22 @@ module.exports = {
       required: true,
       unique: true
     },
-    name: {
+    user_id: {
       type: 'string',
       required: true
     },
-    image: {
+    joke_id: {
+      type: 'string',
+      required: true
+    },
+    like: {
+      type: 'boolean',
+      required: true
+    },
+    comment: {
       type: 'string',
       required: false
-    },
-    content: {
-      type: 'string',
-      required: true
     }
   }
-
 };
 

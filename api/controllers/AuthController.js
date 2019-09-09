@@ -6,6 +6,7 @@
  */
 
 const passport = require('passport');
+const jwt = require('jsonwebtoken');
 
 module.exports = {
     login: function(req, res) {
@@ -13,22 +14,20 @@ module.exports = {
             if((err) || (!user)) {
                 return res.send({
                     message: 'Login Failed! Check username or password.',
-                    user
+                    code: 401
                 });
             }
             req.logIn(user, function(err) {
                 if(err) res.send(err);
-                return res.send({
-                    message: 'Login is Successful!',
-                    user
-                });
+                const token = jwt.sign(user, 'secretkey');
+                return res.json({token});
             });
         })(req, res);
     },
 
     logout: function(req, res) {
         req.logout();
-        // res.redirect('/');
+        res.redirect('/');
     }
 };
 
