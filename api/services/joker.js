@@ -11,6 +11,6 @@ module.exports.getRandomOne = async function() {
 
 module.exports.getAll = async function() {
   const jokes = await Joke.find();
-  sails.log.debug("jokes :", jokes);
+  // sails.log.debug("jokes :", jokes);
   return jokes;
 }

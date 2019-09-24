@@ -28,6 +28,19 @@ attributes: {
     type: 'string',
     required: true
   }
+  ,
+  fullname: {
+    type: 'string',
+    required: false
+  },
+  phone: {
+    type: 'number',
+    required: false
+  },
+  dailydigest: {
+    type: 'boolean',
+    required: false
+  }
 },
 customToJSON: function() {
   const { ['password']: omitted, ...rest } = this;

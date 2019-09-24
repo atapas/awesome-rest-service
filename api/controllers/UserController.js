@@ -14,6 +14,9 @@ module.exports = {
         payload['username'] = req.body.username;
         payload['password'] = req.body.password;
         payload['email'] = req.body.email;
+        payload['fullname'] = req.body.fullname;
+        payload['phone'] = req.body.phone;
+        payload['dailydigest'] = req.body.dailydigest;
 
         sails.log.debug(JSON.stringify(payload));
         await Users.create(payload);
